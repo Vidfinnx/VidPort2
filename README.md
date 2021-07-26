@@ -1,6 +1,8 @@
-THIS IS AN UPDATE TO MY ORIGINAL PORTFOLIO
+**THIS IS UPDATE #3 TO MY ORIGINAL PORTFOLIO**
 
-This took a ton of time and is a continuous work in progress! (VERY HARD!)
+**Added More Projects Trip Scavenger App and Tech Blog**
+
+This took a ton of time and is a continuous work in progress! (Challenging)
 
 My original site was super complex and not mobile responsive at all,
 
@@ -20,9 +22,9 @@ This project is 100% original and I set off to challenge myself from the start
 
 by incorporating things I had no idea how they work but I thought they looked neat (See Spinning Planet Links)
 
-***Refactored in 2560X1600 (1440p)***
+***Refactored in 3840x2160 (4K)***
 
-***Tested in 1920 x 1080p + Using DevTools Simulated Mobile Devices Iphone and Ipads in horizontal and vertical alignments***
+***Tested at multiple resolutions + Using DevTools Simulated Mobile Devices Iphone and Ipads in horizontal and vertical alignments***
 
 Link to project:https://vidfinnx.github.io/VidPort2/
 
